@@ -22,7 +22,7 @@ This a form with five different questions, each with three options to select. Af
 * There you will type in git clone and paste the URL after.
 * Prese enter.
 * Now you can navigate to the project folder and open index.html
-* Another option is to use the Github page [here](https://cmurphy518.github.io/portfolio-project/) 
+* Another option is to use the Github page [here](https://cmurphy518.github.io/language-suggester/) 
 
 ## Known Bugs
 * No known issues
